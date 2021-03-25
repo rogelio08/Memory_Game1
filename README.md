@@ -39,10 +39,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories via gifs:
 ![](http://g.recordit.co/WnJt5dRJhw.gif)
 ![](http://g.recordit.co/HeFBDNbOqJ.gif)
 
+Here's a link to a longer video demonstarting the features on google drive(although the video quality is a little low):
+link:https://drive.google.com/file/d/1kJwb0ghzN6QsYYzWD2sUAYprrpM1UQxT/view?usp=sharing
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
